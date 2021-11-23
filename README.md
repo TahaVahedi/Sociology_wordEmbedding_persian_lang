@@ -1,2 +1,3 @@
 # Sociology_wordEmbedding-persian-
-check Sociology parameters in a society with word embedding like racism or sexism
+check the norms in a society with Sociology and word embedding.
+for example find the number of racism or sexism in a society!
